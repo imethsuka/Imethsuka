@@ -1,48 +1,78 @@
-<h1 align="center"><b>Hi, I'm Imeth Methsuka</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center" style="color: purple;">Passionate Tech Enthusiast | Programming & Web Technologies</h3>
-<br>
+<h1 align="center">Hi, I'm <b>Imeth Methsuka</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h3 align="center" style="color: purple;">🚀 Passionate Tech Enthusiast | Programming & Web Technologies</h3>
+
+---
+
+### 📌 About Me
+
+- 🎯 Tech enthusiast with a strong passion for **Web Development & Programming**.
+- 🌱 Always eager to **learn new technologies** and explore innovative solutions.
+- 🔥 Love working with **JavaScript, React, Node.js, and Full-Stack Development**.
+- 💡 Open to **collaborations** on exciting projects.
+- 📩 Feel free to **reach out** and connect with me!
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <!--- stats (start) -->
-  <table align="center">
+  <table>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=imethsuka&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imethsuka&theme=dark&hide_border=false" alt="GitHub Streak" /> 
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=imethsuka&theme=dark&show_icons=true&count_private=true&v=1" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imethsuka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+      <td>
+        <img src="https://github-readme-streak-stats.demolab.com/?user=imethsuka&theme=dark&hide_border=false&v=1" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imethsuka&theme=dark" alt="Repos Per Language" />
       </td>
     </tr>
   </table>
 </p>
 
-<div align="center">
-  <h2>Technologies That I Know 👨🏻‍💻</h2>
-</div>
+---
+
+### 🚀 Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,figma,github,java,jsmongodb,mysql,postman,react,nodejs,expressjs,tailwind&perline=14" alt="Tech Stack" style="width: 500px; height: 500px;" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,java,js,mongodb,mysql,react,nodejs,expressjs,tailwind,unity,cs&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
-<div align="center">
-  <h2>Connect With Me 🤝</h2>
-</div>
+---
+
+### 🎯 Featured Projects
+
+- 📌 **[Project Name](#)** - A brief description of the project.
+- 📌 **[Project Name](#)** - Another brief description.
+- 📌 **[Project Name](#)** - Showcase your best work!
+
+---
+
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imeth-methsuka/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="https://twitter.com/imethsuka" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/imethsuka/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discord.gg/imethsuka" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+
+---
+
+### 📬 Get in Touch
+
+💌 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+🌐 **Portfolio:** [your-portfolio.com](#)  
+
+🔹 Always happy to connect and collaborate on exciting tech projects!
