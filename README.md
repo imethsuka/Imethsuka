@@ -14,6 +14,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imethsuka&theme=darkhub&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -21,9 +29,6 @@
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=imethsuka&theme=dark&show_icons=true&count_private=true&v=1" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=imethsuka&theme=darkhub&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
       </td>
     </tr>
     <tr>
