@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,java,js,mongodb,mysql,react,nodejs,expressjs,tailwind,unity,cs&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,cpp,mongodb,expressjs,react,nodejs,mysql,tailwind,unity,git&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
