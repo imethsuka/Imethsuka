@@ -23,7 +23,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=imethsuka&theme=dark&show_icons=true&count_private=true&v=1" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.demolab.com/?user=imethsuka&theme=dark&hide_border=false&v=1" alt="GitHub Streak" />
+        <img src="https://github-profile-trophy.vercel.app/?username=imethsuka&theme=darkhub&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
       </td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,java,js,mongodb,mysql,react,nodejs,expressjs,tailwind,unity,cs&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,java,js,mongodb,mysql,react,nodejs,expressjs,tailwind,unity,cs&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
