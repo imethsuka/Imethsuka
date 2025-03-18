@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,figma,github,java,jsmongodb,mysql,postman,react,nodejs,expressjs,tailwind&perline=14" alt="Tech Stack" style="width: 100px; height: 100px;" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,figma,github,java,jsmongodb,mysql,postman,react,nodejs,expressjs,tailwind&perline=14" alt="Tech Stack" style="width: 200px; height: 200px;" />
   </a>
 </p>
 
