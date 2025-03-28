@@ -45,30 +45,23 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,cpp,mongodb,expressjs,react,nodejs,mysql,tailwind,unity,git&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,cpp,mongodb,expressjs,react,nodejs,mysql,tailwind,unity,kotlin&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
----
-
-### 🎯 Featured Projects
-
-- 📌 **[Project Name](#)** - A brief description of the project.
-- 📌 **[Project Name](#)** - Another brief description.
-- 📌 **[Project Name](#)** - Showcase your best work!
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imeth-methsuka/" target="_blank">
+  <a href="https://www.linkedin.com/in/imeth-m-978750356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/imethsuka/" target="_blank">
+  <a href="https://www.instagram.com/imeth_methsuka/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/imethsuka" target="_blank">
+  <a href="https://discord.gg/wrecking192" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -77,7 +70,6 @@
 
 ### 📬 Get in Touch
 
-💌 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🌐 **Portfolio:** [your-portfolio.com](#)  
+💌 **Email:** [imethmethsuka14@gmail.com](mailto:your-imethmethsuka14@gmai.com)  
 
 🔹 Always happy to connect and collaborate on exciting tech projects!
