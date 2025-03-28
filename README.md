@@ -8,7 +8,7 @@
 
 - 🎯 Tech enthusiast with a strong passion for **Web Development & Programming**.
 - 🌱 Always eager to **learn new technologies** and explore innovative solutions.
-- 🔥 Love working with **JavaScript, React, Node.js, and Full-Stack Development**.
+- 🔥 Love working with **JavaScript, React, Node.js**.
 - 💡 Open to **collaborations** on exciting projects.
 - 📩 Feel free to **reach out** and connect with me!
 
